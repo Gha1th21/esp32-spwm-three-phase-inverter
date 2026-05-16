@@ -97,7 +97,7 @@ Oscilloscope measurements confirmed:
 Report file:
 
 ```text
-docs/report.pdf
+docs/docs/sp32_spwm_3phase_inverter_documentation.pdf
 ```
 
 ## Notes
