@@ -2,7 +2,7 @@
 
 This project implements a **24 V three-phase inverter** controlled by an **ESP32**. The inverter generates variable-frequency three-phase SPWM signals from **1 Hz to 50 Hz** using a potentiometer input. Three **IR2101 gate drivers** are used to drive a six-MOSFET bridge built with **IRFZ44 MOSFETs**.
 
-> **For the complete design details, calculations, circuit explanation, and oscilloscope results, refer to the full project report in `docs/report.pdf`.**
+> **For the complete design details, calculations, circuit explanation, and oscilloscope results, refer to the full project report in `docs/esp32_spwm_3phase_inverter_documentation.pdf`.**
 
 ## Features
 
